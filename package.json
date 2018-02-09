@@ -1,6 +1,6 @@
 {
   "name": "atd-deprecated-polyfills",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bundles polyfills for deprecated browsers",
   "main": "./dist/js/atd-deprecated-polyfills.js",
   "scripts": {
@@ -24,7 +24,10 @@
   "dependencies": {
     "atd-legacy-polyfills": "0.0.1",
     "classlist-polyfill": "^1.2.0",
-    "console-polyfill": "^0.3.0"
+    "console-polyfill": "^0.3.0",
+    "es5-shim": "^4.5.10",
+    "placeholder.js": "^3.1.0",
+    "respond.js": "^1.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
