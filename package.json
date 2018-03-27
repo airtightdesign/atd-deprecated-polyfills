@@ -1,6 +1,6 @@
 {
   "name": "atd-deprecated-polyfills",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Bundles polyfills for deprecated browsers",
   "main": "./dist/js/atd-deprecated-polyfills.js",
   "scripts": {
