@@ -10,4 +10,4 @@ This bundle is intended to be used in conjunction with [atd-browser-support](htt
 - [`Console`](https://github.com/paulmillr/console-polyfill)
 - [`es5-shim`](https://www.npmjs.com/package/es5-shim)
 - [`placeholder.js`](https://www.npmjs.com/package/placeholders.js)
-- [`respond.js`](https://www.npmjs.com/package/respond.js)
+- <del>[`respond.js`](https://www.npmjs.com/package/respond.js)</del> - Removed due to issues compiling into bundle.
